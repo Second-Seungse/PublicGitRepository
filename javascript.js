@@ -20,6 +20,8 @@ function alertMsg(param) {
     document.write("\n------ alertMsg() 끝 -------", "<br>");
 }
 alertMsg("test"); //함수호출 - 함수명(매개변수값)
+//topic1에 추가된 코드
+document.write("<hr>");
 document.write("<hr>");
 document.write("globalStr: " + globalStr, "<br>");
 document.write("globalStr2: " + globalStr2, "<br>");
