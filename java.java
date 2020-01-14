@@ -26,17 +26,17 @@ public class Ex15_if {
 		//79 ~ 70 : 미
 		//69 ~ 60 : 양
 		//59 ~ 0 : 가
-		int jumsu = 555;
-		if (jumsu >= 92 && jumsu <= 100) {
+		int jumsu = 59;
+		if (jumsu >= 90 && jumsu <= 100) {
 			System.out.println("성적 : 수");
 		}
 		if (jumsu >= 80 && jumsu <= 89) {
 			System.out.println("성적 : 우");
 		}
-		if (jumsu >= 73 && jumsu <= 79) {
+		if (jumsu >= 70 && jumsu <= 79) {
 			System.out.println("성적 : 미");
 		}
-		if (jumsu >= 61 && jumsu <= 69) {
+		if (jumsu >= 60 && jumsu <= 69) {
 			System.out.println("성적 : 양");
 		}
 		if (jumsu >= 0 && jumsu <= 59) {
