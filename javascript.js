@@ -4,7 +4,7 @@ document.write("globalStr3: " + globalStr3, "<br>");
 document.write("globalStr3: " + window.globalStr3, "<br>");
 //topic2추가코드
 document.write("globalStr3: " + globalStr3, "<br>");
-//function선언
+//function선언2222
 //function 함수명(매개변수1, 매개변수2, ..., 매개변수n) { }
 function alertMsg(param) {
     document.write("------ alertMsg() 시작 -------", "<br>");
